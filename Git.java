@@ -10,8 +10,7 @@ public class Git {
         a=10;
         b=79;
         c=30;
-        d=90;
-        e=100;
+//
         int b = a.intValue();
         System.out.println(b);
         Git instance = new Git();
