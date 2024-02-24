@@ -8,11 +8,17 @@ public class Git {
         Integer a = new Integer(10);
 
 
+
         a=10;
         b=79;
         c=30;
         d=90;
         e=100;
+
+
+        a=10;
+        b=79;
+        c=30;
 
         int b = a.intValue();
         System.out.println(b);
